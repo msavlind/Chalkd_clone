@@ -1,3 +1,27 @@
+
+# Chalkd_clone
+
+This is a clone of https://www.chalkd.co.nz/collections/all (no longer existing).
+<br/>
+It was produced for educational purposes, but doesn't have any clickable functionality. 
+
+# Libraries used
+React.js, 16.8.5
+
+# Features
+This website:
+<ul>
+  <li>Loops through an array of objects to display products</li>
+  <li>Has the structure of parent with child components</li>
+  <li>Passes props to a couple of layers of child components</li>
+  <li>Uses inline styling with objects.</li>
+</ul>
+
+# Developers
+Melissa Sävlind, (melissa.savlind@gmail.com)
+
+# Installing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
