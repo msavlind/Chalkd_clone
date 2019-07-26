@@ -4,8 +4,6 @@ import Item from './Item.js';
 class List extends React.Component {
 
     render () {
-          console.log(this.props.products)
-          console.log(this.props.bestsellers)
             this.productMapper = this.props.products.map(ele => {
             if(ele.onSale === true) {
              return <div className="products">

@@ -149,7 +149,6 @@ class App extends React.Component {
          
          <div><List products = {this.productList} bestsellers = {this.bestsellerList}/></div>
 
-       {console.log(this.bestsellerList)}
        <div id = "footer">
        <hr style = {styles.hr}/>
        <div style = {styles.wrapper}>
